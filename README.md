@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# ratinamaze
+
+An interactive web application built with React that demonstrates pathfinding algorithms through a maze.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
